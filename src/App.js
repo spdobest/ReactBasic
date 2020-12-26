@@ -83,7 +83,8 @@ class App extends Component {
           <h3>Input 1 </h3>
           <input
             id="input1"
-            name="field1"
+            name="field1"S
+            placeholder="0"
             value={this.state.field1}
             onChange={this.onValueChange}
             type="number"
@@ -95,6 +96,7 @@ class App extends Component {
           <input
             id="input2"
             name="field2"
+            placeholder="0"
             value={this.state.field2}
             onChange={this.onValueChange}
             type="number"
