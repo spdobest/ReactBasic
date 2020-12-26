@@ -78,7 +78,7 @@ class App extends Component {
     return (
       <div className="App">
         <h1> Welcome to React Basic APP </h1>
-
+        <h2> Simple React Application to understand Basics </h2>
         <div className="container">
           <h3>Input 1 </h3>
           <input
