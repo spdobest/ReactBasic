@@ -83,7 +83,7 @@ class App extends Component {
           <h3>Input 1 </h3>
           <input
             id="input1"
-            name="field1"S
+            name="field1"
             placeholder="0"
             value={this.state.field1}
             onChange={this.onValueChange}
